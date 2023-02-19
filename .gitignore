@@ -1,0 +1,7 @@
+StudentSystem.DataAccess/obj/
+StudentSystem.DataAccess/bin/
+StudentSystem.Web/bin/
+StudentSystem.Web/obj/
+SystemTech.Core/obj/
+SystemTech.Core/bin/
+.idea/
